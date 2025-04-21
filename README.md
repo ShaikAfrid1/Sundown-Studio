@@ -11,12 +11,6 @@ A front-end clone of the official [Sundown Studio](https://www.sundown-studio.co
 - JavaScript  
 - (Future Enhancements: GSAP, Locomotive Scroll)
 
-## 📸 Screenshots
-*(Add screenshots here once available — you can take them using browser dev tools or screenshot tool)*
 
-## 🚀 Getting Started
 
-```bash
-git clone https://github.com/ShaikAfrid1/Sundown-Studio.git
-cd Sundown-Studio
-open index.html
+
