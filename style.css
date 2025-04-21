@@ -1251,6 +1251,7 @@ button:hover {
 
   .feature-img-text p {
       font-size: 18px;
+    line-height: normal;
   }
 
   .left-part1 {
